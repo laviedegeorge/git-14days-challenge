@@ -7,3 +7,4 @@
 ![Day2 git pull from origin](https://user-images.githubusercontent.com/38376383/80726808-ce8d9b80-8afc-11ea-8e4d-143d905a3846.png)
 
 # Git Push screenshot
+![Day2 git push to forked repo](https://user-images.githubusercontent.com/38376383/80727644-e0237300-8afd-11ea-8fa2-b92b1f8c5a83.png)
